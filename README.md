@@ -1,0 +1,1 @@
+# -Acessar-o-modo-EXEC-privilegiado
